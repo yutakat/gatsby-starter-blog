@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'www.nonsensecorner.com Blog',
+    title: 'Nonsense Corner',
     author: 'L.star',
     description: 'New blog testing',
     siteUrl: 'https://github.com/yutakat/gatsby-starter-blog/',
